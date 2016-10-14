@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/AnimalClass.swift"
+            timestampString = "497972106.775122"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "animalHealth()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/person.swift"
+            timestampString = "498161059.697255"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/person.swift"
+            timestampString = "498161059.697255"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/person.swift"
+            timestampString = "498161059.697255"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/Interactive.swift"
+            timestampString = "498164076.306294"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/Interactive.swift"
+            timestampString = "498164076.306294"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "welcomeMenu()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Incredible_Lane_Land_Zoo.Interactive.welcomeMenu () -&gt; Swift.String"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/Interactive.swift"
+                  timestampString = "498145887.108174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1229">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Incredible_Lane_Land_Zoo.Interactive.welcomeMenu () -&gt; Swift.String"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/Interactive.swift"
+                  timestampString = "498145887.110439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1446">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/LaneLandZoo.swift"
+            timestampString = "498148337.700661"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_C4BE8C08558D87833C18AEE8C148CAAD_func1"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/LaneLandZoo.swift"
+                  timestampString = "498163678.298911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Incredible_Lane_Land_Zoo.zooAnimals.unsafeMutableAddressor : Swift.Array&lt;The_Incredible_Lane_Land_Zoo.Animal&gt;"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/LaneLandZoo.swift"
+                  timestampString = "498163678.301341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/Interactive.swift"
+            timestampString = "498156798.407477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "go()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/Animal.swift"
+            timestampString = "498161566.870448"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Animal"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_4B7C522B1FF5678D77CA71C01DF2AE6C_func0"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/Animal.swift"
+                  timestampString = "498163678.309698"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Incredible_Lane_Land_Zoo.io.unsafeMutableAddressor : The_Incredible_Lane_Land_Zoo.IO"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/Animal.swift"
+                  timestampString = "498163678.311388"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "The Incredible Lane Land Zoo/Animal.swift"
+            timestampString = "498161567.513641"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Animal"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Incredible_Lane_Land_Zoo.Animal.__deallocating_deinit"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/Animal.swift"
+                  timestampString = "498163678.315191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Incredible_Lane_Land_Zoo.Animal.deinit"
+                  moduleName = "The Incredible Lane Land Zoo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willcarty/Documents/LaneLandZoo/The%20Incredible%20Lane%20Land%20Zoo/The%20Incredible%20Lane%20Land%20Zoo/Animal.swift"
+                  timestampString = "498163678.317275"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
